@@ -7,11 +7,11 @@ I'm **`Filip Drzazga`** trying to become a front-end developepr :dart:
 - :seedling: learn step by step `react`
 
 ##### FUTURE
-- :crystal_ball: `react nativ,` `typescript,` `node.js,`
+- :crystal_ball: `react nativ` `typescript` `node.js`
 
 ##### BIO
 - :house: currently based in London
-- :pencil2: use daily: `.js,` `.html,` `.css` `.sass`
+- :pencil2: use daily: `.js` `.html` `.css` `.sass`
 - :bulb: know how to use: `npm` `git`
 - :art: design in: `adobeXD` `adobe illustrator`
 - :computer: coding in: `vsc`
