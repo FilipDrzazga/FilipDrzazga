@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! :vampire:
 
-<!--
-**FilipDrzazga/FilipDrzazga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **`Filip Drzazga`** trying to become a front-end developepr :dart:
 
-Here are some ideas to get you started:
+### NOW
+- :blossom: trying be best in `.js`
+- :seedling: learn step by step `react`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FUTURE
+- :crystal_ball: `react nativ,` `node.js,` `typescript`
+
+### BIO
+- :house: currently based in London
+- :pencil2: use daily: `.js,` `.html,` `.css` `.sass`
+- :bulb: know how to use: `npm` `git`
+- :art: design in: `adobeXD` `adobe illustrator`
+- :computer: coding in: `vsc`
+- :mailbox_with_mail: mail me: **filip.drzazga@gmail.com**
