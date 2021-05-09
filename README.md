@@ -7,7 +7,7 @@ I'm **`Filip Drzazga`** trying to become a front-end developepr :dart:
 - :seedling: learn step by step `react`
 
 ### FUTURE
-- :crystal_ball: `react nativ,` `node.js,` `typescript`
+- :crystal_ball: `react nativ,` `typescript,` `node.js,`
 
 ### BIO
 - :house: currently based in London
@@ -16,3 +16,6 @@ I'm **`Filip Drzazga`** trying to become a front-end developepr :dart:
 - :art: design in: `adobeXD` `adobe illustrator`
 - :computer: coding in: `vsc`
 - :mailbox_with_mail: mail me: **filip.drzazga@gmail.com**
+
+Note:
+> if you have some job for me just let me know :speech_balloon::tongue:
