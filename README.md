@@ -7,7 +7,7 @@ I'm **`Filip Drzazga`** trying to become a front-end developepr :dart:
 - :seedling: learn step by step `react`
 
 ##### FUTURE
-- :crystal_ball: `react nativ` `typescript` `node.js`
+- :crystal_ball: `react nativ` `typescript`
 
 ##### BIO
 - :house: currently based in London
