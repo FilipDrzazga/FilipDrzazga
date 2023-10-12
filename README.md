@@ -3,17 +3,17 @@
 I'm **`Filip Drzazga`** trying to become a front-end developepr :dart:
 
 ##### NOW
-- :books: mentoring program with [Mateusz Bogolubow](https://devmentor.pl/)
 - :blossom: trying be best in `.js`
-- :seedling: learn step by step `react`
+- :seedling: learn step by step `typescript`
 
 ##### FUTURE
-- :crystal_ball: `react nativ` `typescript`
+- :crystal_ball: `react nativ`
 
 ##### BIO
 - :house: currently based in London
+- :books: mentoring program with [Mateusz Bogolubow](https://devmentor.pl/)
 - :pencil2: use daily: `.html` `.css` `.js` `.react`
-- :bulb: know how to use: `npm` `git` `webpack` `babel` `styled-components` `redux-toolkit` `react-router`
+- :bulb: know how to use: `npm` `git` `webpack` `babel` `styled-components` `redux-toolkit` `react-router` `framer-motion` `firebase`
 - :hammer: tests: `jest`
 - :art: design in: `figma`
 - :computer: coding in: `vsc`
