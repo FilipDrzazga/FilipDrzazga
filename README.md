@@ -8,6 +8,8 @@ I'm **`Filip Drzazga`** trying to become a front-end developepr :dart:
 
 ##### FUTURE
 - :crystal_ball: `react-native`
+- :crystal_ball: `three.js`
+- :crystal_ball: `node.js`
 
 ##### BIO
 - :house: currently based in London
