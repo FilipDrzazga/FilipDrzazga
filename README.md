@@ -30,5 +30,5 @@ I'm **`Filip Drzazga`** trying to become a front-end developepr :dart:
 - :computer: coding in: `vsc`
 - :mailbox_with_mail: mail me: **filip.drzazga@gmail.com**
 
-Note::clubs::hearts::spades::diamonds:
+Note: :clubs: :hearts: :spades: :diamonds:
 > if you have some job for me just let me know :speech_balloon::tongue:
